@@ -1,3 +1,3 @@
-module github.com/sasirekha-dev/todostore/V1
+module github.com/sasirekha-dev/todostore
 
 go 1.23.0
