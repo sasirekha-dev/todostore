@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sasirekha-dev/go2.0/todostore/V1/store"
-	"github.com/sasirekha-dev/go2.0/todostore/V1/models"
+	"github.com/sasirekha-dev/todostore/V1/store"
+	"github.com/sasirekha-dev/todostore/V1/models"
 )
 
 func TestAddTask(t *testing.T) {
